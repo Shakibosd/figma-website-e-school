@@ -1,0 +1,54 @@
+.ttt {
+ color: #FD511A;
+}
+.fff {
+ color: #21B573;
+}
+.orange img {
+ width: 554px;
+ height: 346px;
+ left: 691px;
+ top: 157px; 
+}
+.vvv {
+ color: #6C6B6B;
+}
+.lll {
+ padding: 10px 20px;
+ background-color: #21B573;
+ color: blue;
+ border-radius: 15px;
+ text-align: center;
+}
+.kkk {
+ padding: 5px 10px;
+ background-color: #21B573;
+ color: black;
+ border-radius: 20px;
+ text-align: center;
+}
+.container {
+ background: #F0FFF0;
+ width: 100%;
+}
+.ppp {
+ width: 25%;
+}
+.card-img-top {
+ width: 50%;
+}
+.card h-100 img {
+ border: none;
+}
+.bbb {
+ text-align: center;
+}
+.ooo {
+ padding: 4px 8px;
+ background-color: #21B573;
+ color: white;
+ border-radius: 10px;
+}
+.zzz {
+ text-align: center;
+}
