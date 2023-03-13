@@ -35,13 +35,13 @@
  width: 25%;
 }
 .card-img-top {
+ width: 100%;
+}
+.card-img {
  width: 50%;
 }
 .card h-100 img {
  border: none;
-}
-.bbb {
- text-align: center;
 }
 .ooo {
  padding: 4px 8px;
@@ -49,6 +49,29 @@
  color: white;
  border-radius: 10px;
 }
-.zzz {
+.bbb {
  text-align: center;
+}
+.tec {
+ text-align: center;
+}
+.row {
+ text-align: center;
+}
+.top {
+ text-align: center;
+}
+.jjj {
+ color: grey;
+}
+.subcribe {
+ background: #282531;
+ color: white;
+padding: 80px;
+}
+.ddd {
+ color: #e11c1c;
+}
+.cat {
+ color: sandybrown;
 }
